@@ -13,3 +13,7 @@ stm32f4+ov2640
 代码需移植rtos，=====待完成，
 pcb板外壳需要重新设计
 
+
+### 版本3 
+======待完成
+树莓派4B+mobileNet+tensorflow lite+加速棒
