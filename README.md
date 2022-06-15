@@ -17,4 +17,4 @@ pcb板外壳需要重新设计
 
 ### 版本3 
 ======待完成
-树莓派4B+mobileNet+tensorflow lite+加速棒
+全志V831主控的MIIdock，利用yolov目标检测算法。
